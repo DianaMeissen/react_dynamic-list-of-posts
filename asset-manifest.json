@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rreact_dynamic-list-of-posts/static/css/main.fe08cbad.chunk.css",
-    "main.js": "/rreact_dynamic-list-of-posts/static/js/main.6d8bd1e6.chunk.js",
-    "main.js.map": "/rreact_dynamic-list-of-posts/static/js/main.6d8bd1e6.chunk.js.map",
-    "runtime~main.js": "/rreact_dynamic-list-of-posts/static/js/runtime~main.9d771937.js",
-    "runtime~main.js.map": "/rreact_dynamic-list-of-posts/static/js/runtime~main.9d771937.js.map",
-    "static/js/2.ae2e3e31.chunk.js": "/rreact_dynamic-list-of-posts/static/js/2.ae2e3e31.chunk.js",
-    "static/js/2.ae2e3e31.chunk.js.map": "/rreact_dynamic-list-of-posts/static/js/2.ae2e3e31.chunk.js.map",
-    "index.html": "/rreact_dynamic-list-of-posts/index.html",
-    "precache-manifest.660cfcef20bbecbfc7ec55d844234d84.js": "/rreact_dynamic-list-of-posts/precache-manifest.660cfcef20bbecbfc7ec55d844234d84.js",
-    "service-worker.js": "/rreact_dynamic-list-of-posts/service-worker.js",
-    "static/css/main.fe08cbad.chunk.css.map": "/rreact_dynamic-list-of-posts/static/css/main.fe08cbad.chunk.css.map",
-    "static/media/App.css": "/rreact_dynamic-list-of-posts/static/media/main-bg.0a4a76ac.png"
+    "main.css": "/react_dynamic-list-of-posts/static/css/main.d5cf30bd.chunk.css",
+    "main.js": "/react_dynamic-list-of-posts/static/js/main.6d8bd1e6.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-posts/static/js/main.6d8bd1e6.chunk.js.map",
+    "runtime~main.js": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js",
+    "runtime~main.js.map": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js.map",
+    "static/js/2.ae2e3e31.chunk.js": "/react_dynamic-list-of-posts/static/js/2.ae2e3e31.chunk.js",
+    "static/js/2.ae2e3e31.chunk.js.map": "/react_dynamic-list-of-posts/static/js/2.ae2e3e31.chunk.js.map",
+    "index.html": "/react_dynamic-list-of-posts/index.html",
+    "precache-manifest.7825f7cb4727a5cb84ac5cd7c4233e17.js": "/react_dynamic-list-of-posts/precache-manifest.7825f7cb4727a5cb84ac5cd7c4233e17.js",
+    "service-worker.js": "/react_dynamic-list-of-posts/service-worker.js",
+    "static/css/main.d5cf30bd.chunk.css.map": "/react_dynamic-list-of-posts/static/css/main.d5cf30bd.chunk.css.map",
+    "static/media/App.css": "/react_dynamic-list-of-posts/static/media/main-bg.0a4a76ac.png"
   }
 }
